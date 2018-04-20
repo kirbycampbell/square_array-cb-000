@@ -8,10 +8,6 @@ end
 
 
 
-
-
-
-
 # Advanced portion - works if uncommented and commented above
 #def square_array(array)
   #array = array.collect { |i| i ** 2 }
